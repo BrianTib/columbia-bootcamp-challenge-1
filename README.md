@@ -7,4 +7,4 @@ This project is a marketing agency website that adheres to accessibility standar
 ![Screenshot of the application](./assets/images/01-html-css-git-homework-demo.png)
 
 ## Deployed Application
-[Live URL](http://githubpages-url.com)
+[Github Pages URL](https://briantib.github.io/columbia-bootcamp-challenge-1/)
